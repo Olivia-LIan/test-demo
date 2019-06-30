@@ -6,3 +6,5 @@ var abc = 123;
  }
 
 console.log( add(1,2));
+
+console.log('hello');

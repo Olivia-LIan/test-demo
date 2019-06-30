@@ -6,3 +6,10 @@ div {
 h1 {
     color: skyblue;
 }
+
+ul {
+    list-style: none;
+}
+li {
+    line-height: 25px;
+}
